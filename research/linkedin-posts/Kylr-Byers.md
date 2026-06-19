@@ -144,3 +144,4 @@ unique proprietary content, and third-party
 validation — measured by recommendations 
 and pipeline influence, not just traffic and clicks.
 
+Add Kyle Byers LinkedIn posts — half AI strategy problem and AI as acquisition platform
